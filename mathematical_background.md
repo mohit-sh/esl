@@ -1,5 +1,4 @@
 ## Quadratic Forms
-
 **Proposition 1** For any vector $$ \bm{x}, \bm{b} \in \mathbb{R}^d$$ and a symmetric invertible matrix $$\bm{M} \in \mathbb{R}^{d\times d}$$, we have
 
 $$
