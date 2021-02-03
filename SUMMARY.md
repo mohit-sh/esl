@@ -13,4 +13,4 @@
 
 ## Mathematical Background
 
-* [Everything for now](mathematical_background.md)
+* [Everything (for now)](mathematical_background.md)
