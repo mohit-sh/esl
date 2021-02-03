@@ -17,11 +17,9 @@ $$
 &= \bm{x}^{\mathsf{T}}\bm{M}\bm{x} - 2 \bm{b}^{\mathsf{T}}\bm{x}
 \end{aligned}
 $$
-
 More interesting is to come up with the expression on RHS. Here's how you can do that:
 
 Consider this generic form for the RHS (Paise and think why this makes sense!)
-
 $$
  \bm{x}^{\mathsf{T}}\bm{M}\bm{x} - 2\bm{b}^{\mathsf{T}}\bm{x} = (\bm{x} - \bm{u})^{\mathsf{T}}\bm{M}(\bm{x} - \bm{u}) + \bm{v}
 $$
