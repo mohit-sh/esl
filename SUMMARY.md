@@ -6,3 +6,7 @@
   * [3.2: Linear Regression Models and Least Squares](3_1_introduction/3_2_linear_regression_models_and_least_squares.md)
 * [Mathematical Background](mathematical_background.md)
 
+## Chapter 4: Linear Models for Classification
+
+* [4.1: Introduction](chapter-4-linear-models-for-classification/4_1_introduction.md)
+
