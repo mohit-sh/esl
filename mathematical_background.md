@@ -20,10 +20,10 @@ $$
 
 More interesting is to come up with the expression on RHS. Here's how you can do that:
 
-Assume
+Consider this generic form for the RHS (Paise and think why this makes sense!)
 
 $$
-\tag{Pause to see why this is the right form for RHS!} \bm{x}^{\mathsf{T}}\bm{M}\bm{x} - 2\bm{b}^{\mathsf{T}}\bm{x} = (\bm{x} - \bm{u})^{\mathsf{T}}\bm{M}(\bm{x} - \bm{u}) + \bm{v} 
+ \bm{x}^{\mathsf{T}}\bm{M}\bm{x} - 2\bm{b}^{\mathsf{T}}\bm{x} = (\bm{x} - \bm{u})^{\mathsf{T}}\bm{M}(\bm{x} - \bm{u}) + \bm{v}
 $$
 
 Expanding the RHS
