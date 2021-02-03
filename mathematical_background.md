@@ -23,7 +23,7 @@ More interesting is to come up with the expression on RHS. Here's how you can do
 Assume
 
 $$
-\bm{x}^{\mathsf{T}}\bm{M}\bm{x} - 2\bm{b}^{\mathsf{T}}\bm{x} = (\bm{x} - \bm{u})^{\mathsf{T}}\bm{M}(\bm{x} - \bm{u}) + \bm{v} \tag{Pause to see why this is the right form for RHS!}
+\tag{Pause to see why this is the right form for RHS!} \bm{x}^{\mathsf{T}}\bm{M}\bm{x} - 2\bm{b}^{\mathsf{T}}\bm{x} = (\bm{x} - \bm{u})^{\mathsf{T}}\bm{M}(\bm{x} - \bm{u}) + \bm{v} 
 $$
 
 Expanding the RHS
