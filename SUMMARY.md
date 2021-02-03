@@ -9,8 +9,8 @@
 
 ## Chapter 4: Linear Models for Classification
 
-* [4.1: Introduction](chapter-4/4_1_introduction.md) 
+* [4.1: Introduction](chapter-4/4_1_introduction.md)
 
-<!-- -->
+## Mathematical Background
 
-* [Mathematical Background](mathematical_background.md)
+* [Everything for now](mathematical_background.md)
