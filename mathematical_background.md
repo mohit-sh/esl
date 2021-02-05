@@ -61,7 +61,7 @@ $$
     \begin{aligned}
         \bm{M}  &= \bm{\Sigma}^{-1} + \bm{V}^{-1} \\
         \bm{b}  &= \bm{\Sigma}^{-1}\bm{\mu} + \bm{V}^{-1}\bm{\theta} \\
-        m   &=  \bm{\mu}^{\mathsf{T}}\bm{\Sigma}^{-1}\bm{\mu} + \bm{\theta}^{\mathsf{T}}\bm{V}^{-1}\mathsf{\theta} - \bm{b}^{\mathsf{T}}\bm{b} \\
+        m   &=  \bm{\mu}^{\mathsf{T}}\bm{\Sigma}^{-1}\bm{\mu} + \bm{\theta}^{\mathsf{T}}\bm{V}^{-1}\mathsf{\theta} - \bm{b}^{\mathsf{T}}\bm{M}^{-1}\bm{b} \\
     \end{aligned}
 $$
 Note that we are assuming the invertibility of $$\bm{M}$$.
