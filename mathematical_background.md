@@ -77,4 +77,4 @@ $$
                 &= (\bm{x} - \bm{M}^{-1}\bm{b})^{\mathsf{T}}\bm{M}(\bm{x} - \bm{M}^{-1}\bm{b}) + m
 \end{aligned}
 $$
-We used the **Proposition 1** in the last step.
+We used **Proposition 1** in the last step.
