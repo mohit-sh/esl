@@ -12,7 +12,7 @@ $$
 
 $$
 \begin{aligned}
-(\bm{x} - \bm{M}^{-1}\bm{b})^{\mathsf{T}}M(\bm{x} - \bm{M}^{-1}\bm{b}) - \bm{b}^{\mathsf{T}}\bm{M}^{-1}\bm{b} &= (\bm{x}^{T} - \bm{b}^{\mathsf{T}}\bm{M}^{-1})\bm{M}(\bm{x} - \bm{M}^{-1}\bm{b}) - \bm{b}^{\mathsf{T}}\bm{M}^{-1}\bm{b} \\
+(\bm{x} - \bm{M}^{-1}\bm{b})^{\mathsf{T}}\bm{M}(\bm{x} - \bm{M}^{-1}\bm{b}) - \bm{b}^{\mathsf{T}}\bm{M}^{-1}\bm{b} &= (\bm{x}^{T} - \bm{b}^{\mathsf{T}}\bm{M}^{-1})\bm{M}(\bm{x} - \bm{M}^{-1}\bm{b}) - \bm{b}^{\mathsf{T}}\bm{M}^{-1}\bm{b} \\
 &= \bm{x}^{\mathsf{T}}\bm{M}\bm{x} - 2 \bm{b}^{\mathsf{T}}\bm{x} + \bm{b}^{\mathsf{T}} \bm{M}^{-1}\bm{b} - \bm{b}^{\mathsf{T}} \bm{M}^{-1}\bm{b} \\
 &= \bm{x}^{\mathsf{T}}\bm{M}\bm{x} - 2 \bm{b}^{\mathsf{T}}\bm{x}
 \end{aligned}
