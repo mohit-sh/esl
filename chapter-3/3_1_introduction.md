@@ -1,2 +1,2 @@
 # 3.1: Introduction
-
+This chapter formalizes the Linear Model for regression, the assumptions that goes along with the model, estimating the parameters using Least Squares and related methods, some of the properties of the estimates, ... [TBD] .
